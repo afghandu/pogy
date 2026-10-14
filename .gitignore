@@ -1,0 +1,14 @@
+
+src/assets/logs/Pogy.log
+config.json
+node_modules
+.env
+package-lock.json
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+.DS_Store
+coverage/
+dist/
