@@ -1,0 +1,34 @@
+{
+  "developers": [1094943797907050546],
+  "status": "!help",
+  "discord": "https://discord.gg/DUdEvdfeaY",
+  "dashboard": "true",
+  "server": "1555895729598238831",
+  "prefix": "!",
+  "webhooks": {
+    "logs": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "maintenance_logs": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "ratelimit_logs": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "blacklist": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "report": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "contact": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "bugs": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "premium": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "suggestions": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "votes": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "errors": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "auth": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "joinsPublic": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "joinsPrivate": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "leavesPublic": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8",
+    "leavesPrivate": "https://discord.com/api/webhooks/1557292496944496640/QG5UGlTtEPyZjv0fGZSNKY6cZkRqjqkA3l-c0-9VzK_Z3iBfP6Y2-KsSKVkLXkg3g5m8"
+  },
+  "maintenance": "true",
+  "maintenance_threshold": "3",
+  "invite_link": "",
+  "seo": {
+    "enabled": "false",
+    "title": "pogy - multipurpose discord bot",
+    "description": "pogy is a multipurpose discord bot with many features and commands."
+  }
+}
